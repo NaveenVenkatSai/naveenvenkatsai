@@ -7,7 +7,7 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naveenvenkatsai/naveenvenkatsai/main/profile.png" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/NaveenVenkatSai/naveenvenkatsai/upload/main" />
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
