@@ -109,11 +109,11 @@ Designed multiple clean UI screens.
 </a>
 
 <a href="https://www.linkedin.com/in/naveenvenkatsai">
-  <img src="https://www.linkedin.com/in/naveenvenkatsai-chebrolu-099429323/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBXSRAupNQZmCvIBdW%2F3o1g%3D%3D"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/navanitham415">
-  <img src="https://www.instagram.com/navanitham415/?__pwa=1"/>
+  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/navanitham415/?__pwa=1)"/>
 </a>
 
 <a href="https://twitter.com/naveenvenkatsai">
