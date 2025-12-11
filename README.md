@@ -7,7 +7,7 @@
 
 <!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="https://github.com/NaveenVenkatSai/naveenvenkatsai/upload/main" />
+  <img src="Dark Teal Geometric Technology LinkedIn Banner.png" />
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
