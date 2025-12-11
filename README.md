@@ -1,27 +1,7 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naveenvenkatsai/naveenvenkatsai/main/banner.png" width="100%" />
-</p>
-
-<br>
-
 <!-- PROFILE PHOTO -->
 <p align="center">
   <img src="Dark Teal Geometric Technology LinkedIn Banner.png" />
 </p>
-
-<h1 align="center">Hi there! 👋</h1>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF713&width=440&lines=Web+Developer;IoT+Learner;Tech+Enthusiast;Designer;Fast+Learner;CSE+Student+at+SRMIST" />
-</p>
-
-<p align="center">
-   <em><b>"Innovation starts when fear ends"</b></em>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
